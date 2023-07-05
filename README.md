@@ -16,9 +16,10 @@ Pokémon Crystal Plus adds some extra features to the base game to improve the e
 - Grass Immunity to Powder/Spore
 - Kurt finishes Pokeballs Instantly
 - Harvest More from Berry Trees
-
-**To Implement**
 - Improve Trainer Rematch System
+
+**WIP**
+- Trainer Modifications (DVs, Shiny, Happiness, Etc)
 
 ## Removed Features
 
