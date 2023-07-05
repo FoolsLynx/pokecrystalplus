@@ -10,9 +10,9 @@ Pokémon Crystal Plus adds some extra features to the base game to improve the e
 - Effort Values (EVs)
 - Running Shoes (Hold B)
 - Hail Weather Condition
+- Infinite TM Usage
 
 **To Implement**
-- Infinite TM Usage
 - Gen 6 Exp. Share
 - Automatic reuse Repel
 - Grass Immunity to Powder/Spore
@@ -130,7 +130,7 @@ Outside of Trainers, some other things have been changed to give a different fee
 
 ### New Trainers and NPCs
 
-- Todo (Add NPC that sells Rare Candy and X Items in Cherrygrove)
+- Rare Candy & X Item Dealer in Cherrygrove
 - Todo (Add Legendary Static Encounters)
 
 ### New Rematches
