@@ -1801,6 +1801,17 @@ BattleCommand_CheckHit:
 	ld hl, PeltedByHailText
 	jp StdBattleTextbox
 
+.BlizzardHail:
+; Return z if the current move always hits in hail, and it is hailing.
+	ld a, BATTLE_VARS_MOVE_EFFECT
+	call GetBattleVar
+	cp EFFECT_BLIZZARD
+	ret nz
+
+	ld a, [wBattleWeather]
+	cp WEATHER_HAIL
+	ret
+
 .XAccuracy:
 	ld a, BATTLE_VARS_SUBSTATUS4
 	call GetBattleVar
