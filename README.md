@@ -14,19 +14,17 @@ Pokémon Crystal Plus adds some extra features to the base game to improve the e
 - Gen 6 Exp. Share
 - Automatic reuse Repel
 - Grass Immunity to Powder/Spore
+- Kurt finishes Pokeballs Instantly
+- Harvest More from Berry Trees
 
 **To Implement**
 - Improve Trainer Rematch System
-- Kurt finishes Pokeballs Instantly
-- Harvest More from Berry Trees
 
 ## Removed Features
 
 Some features have been removed from Crystal either due to outdated mechanics or replaced by something better.
 
-- No Stat Experience
-
-**To Remove**
+- Stat Experience (Replaced with EVs)
 - Gym Badge Boosts
 - 25% Failure AI Status Moves
 

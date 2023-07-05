@@ -40,7 +40,7 @@ CeladonPrizeRoom_tmcounterloop:
 
 .DoubleTeam:
 	checkitem TM_DOUBLE_TEAM
-	iftrue CeladonPrizeCorner_alreadyhavetm
+	iftrue CeladonPrizeRoom_alreadyhavetm
 	checkcoins CELADONGAMECORNERPRIZEROOM_TM32_COINS
 	ifequal HAVE_LESS, CeladonPrizeRoom_notenoughcoins
 	getitemname STRING_BUFFER_3, TM_DOUBLE_TEAM
@@ -53,7 +53,7 @@ CeladonPrizeRoom_tmcounterloop:
 
 .Psychic:
 	checkitem TM_PSYCHIC_M
-	iftrue CeladonPrizeCorner_alreadyhavetm
+	iftrue CeladonPrizeRoom_alreadyhavetm
 	checkcoins CELADONGAMECORNERPRIZEROOM_TM29_COINS
 	ifequal HAVE_LESS, CeladonPrizeRoom_notenoughcoins
 	getitemname STRING_BUFFER_3, TM_PSYCHIC_M
@@ -66,7 +66,7 @@ CeladonPrizeRoom_tmcounterloop:
 
 .HyperBeam:
 	checkitem TM_HYPER_BEAM
-	iftrue CeladonPrizeCorner_alreadyhavetm
+	iftrue CeladonPrizeRoom_alreadyhavetm
 	checkcoins CELADONGAMECORNERPRIZEROOM_TM15_COINS
 	ifequal HAVE_LESS, CeladonPrizeRoom_notenoughcoins
 	getitemname STRING_BUFFER_3, TM_HYPER_BEAM
