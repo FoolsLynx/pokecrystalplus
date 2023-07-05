@@ -11,11 +11,11 @@ Pokémon Crystal Plus adds some extra features to the base game to improve the e
 - Running Shoes (Hold B)
 - Hail Weather Condition
 - Infinite TM Usage
-
-**To Implement**
 - Gen 6 Exp. Share
 - Automatic reuse Repel
 - Grass Immunity to Powder/Spore
+
+**To Implement**
 - Improve Trainer Rematch System
 - Kurt finishes Pokeballs Instantly
 - Harvest More from Berry Trees
